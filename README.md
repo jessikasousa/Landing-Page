@@ -8,4 +8,5 @@ Criar um sistema de e-commerce para cadastro de email na landing page para receb
 - CSS
 - JavaScript
 
-[Preview](landing-page-6qqox11bt-hiringcoders.vercel.app)
+[Preview](https://landing-page-seven-chi.vercel.app/#)
+![Landing Page](https://i.imgur.com/Ys03RYu.png "Landing Page")
